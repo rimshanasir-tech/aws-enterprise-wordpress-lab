@@ -2,8 +2,6 @@
 
 A hands-on cloud lab: a WordPress site that runs on EC2, stores its data in a separate Amazon RDS database, sits behind an Application Load Balancer, and scales automatically with an Auto Scaling Group.
 
-The lab was originally written for Huawei Cloud (KooLabs). I rebuilt it on **AWS** using a free-plan account, so a few services and settings differ (see [Huawei Cloud → AWS mapping](#huawei-cloud--aws-mapping)).
-
 ## Requirements from the lab
 
 1. Database nodes and service (web) nodes run on separate servers.
